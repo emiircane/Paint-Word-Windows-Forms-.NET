@@ -31,7 +31,3 @@ git clone https://github.com/emiircane/Paint-Word-Windows-Forms-.NET.git
 ```
 
 - Projeyi klonladıktan sonra Visual Studio 2022 ile `.sln` dosyasını açıp çalıştırabilirsiniz.
-
-## 📄 Lisans
-Bu proje MIT lisansı altında yayınlanmıştır.
-
